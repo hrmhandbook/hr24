@@ -1,33 +1,16 @@
-/* noto-sans-jp-regular - japanese_latin */
-@font-face {
-  font-family: 'Noto Sans JP';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local('Noto Sans Japanese Regular'), local('NotoSansJapanese-Regular'),
-       url('../fonts/noto-sans-jp-v25-japanese_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/noto-sans-jp-v25-japanese_latin-regular.woff') format('woff'); /* Modern Browsers */
-}
-
-/* roboto-regular - latin */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local('Roboto'), local('Roboto-Regular'),
-       url('../fonts/roboto-v20-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/roboto-v20-latin-regular.woff') format('woff'); /* Modern Browsers */
-}
+/* quicksand */
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
 
 html {
   background-color: #FFFFFF;
+  font-family: 'Quicksand', sans-serif;
 }
 
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 16px;
   color: #42464c;
   background: 0 0;
@@ -41,7 +24,7 @@ a {
 }
 
 .error-text {
-  font-family: 'Roboto', Helvetica, sans-serif;
+  font-family: 'Quicksand', Helvetica, sans-serif;
   text-align: center;
 }
 
@@ -110,7 +93,7 @@ a {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Roboto', Helvetica, sans-serif;
+  font-family: 'Quicksand', Helvetica, sans-serif;
   font-weight: 800;
   color: #111111;
 }
@@ -185,7 +168,7 @@ p + p {
 }
 
 .blog-tags {
-  font-family: 'Roboto', Helvetica, sans-serif;
+  font-family: 'Quicksand', Helvetica, sans-serif;
   color: #999999;
   font-size: 15px;
   margin: 30px 0;
@@ -206,7 +189,7 @@ h4.term-name > span.badge {
 }
 
 div.panel-body {
-  font-family: 'Roboto', Helvetica, sans-serif;
+  font-family: 'Quicksand', Helvetica, sans-serif;
   font-weight: 800;
   border-radius: 0;
   border: none;
@@ -219,7 +202,7 @@ div.panel-body {
 }
 
 .post-read-more {
-  font-family: 'Roboto', Helvetica, sans-serif;
+  font-family: 'Quicksand', Helvetica, sans-serif;
   font-weight: 800;
   float: right;
   position: relative;
@@ -392,7 +375,7 @@ input.searchBox {
 }
 
 .searchResultTitle {
-  font-family: 'Roboto', Helvetica, sans-serif;
+  font-family: 'Quicksand', Helvetica, sans-serif;
   font-weight: bold;
   font-size: 24px;
   margin: 5px 0;
@@ -423,7 +406,7 @@ mark {
 
 .pager li a {
   box-sizing: border-box;
-  font-family: 'Roboto', Helvetica, sans-serif;
+  font-family: 'Quicksand', Helvetica, sans-serif;
   text-transform: uppercase;
   text-align: center;
   font-size: 14px;
@@ -457,11 +440,11 @@ footer {
   text-align: center;
   margin-top: auto;
   font-size: 14px;
-  font-family: 'Roboto', Helvetica, sans-serif;
+  font-family: 'Quicksand', Helvetica, sans-serif;
 }
 
 footer .copyright {
-  font-family: 'Roboto', Helvetica, sans-serif;
+  font-family: 'Quicksand', Helvetica, sans-serif;
   text-align: center;
   margin-bottom: 0;
 }
