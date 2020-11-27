@@ -3,47 +3,16 @@ languageCode = "cs-CS"
 title = "HR24"
 theme = "hrm-theme"
 description = "HRM Handbook is a complete guide to Human Resources Management, covering wide range of topics like recruitment, compensation, development and leadership."
-
-
-[menu]
-  [[menu.main]]
-    identifier = "hr-agenda"
-    name = "HR Agenda"
-    url = "/hr-agenda/"
-    weight = 1
-
-  [[menu.main]]
-    identifier = "hrm"
-    name = "HR Management"
-    url = "/hrm/"
-    weight = 2
-
-  [[menu.main]]
-   identifier = "hrp"
-   name = "HR Processes"
-   url = "/hrp/"
-   weight = 3
-
-  [[menu.main]]
-   identifier = "hro"
-   name = "HR Organization"
-   url = "/hro/"
-   weight = 4
-
-  [[menu.main]]
-   identifier = "hra"
-   name = "HR Analytics"
-   url = "/hra/"
-   weight = 5
-
-  [[menu.main]]
-   identifier = "hrt"
-   name = "HR Transformation"
-   url = "/hrt/"
-   weight = 6
+tags = ["tags"]
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "O mně"
     url = "/about/"
-    weight = 7
+    weight = 1
+
+    [[menu.main]]
+      identifier = "tags"
+      name = "Tags"
+      url = "/tags/"
+      weight = 2

@@ -13,4 +13,17 @@
     {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
 
+  <style>
+    .article p, .article ul, .article ol, .article blockquote {
+      max-width: 55em;
+    }
+
+    .article p:first-child {
+      font-size: 1.25em;
+      font-weight: 300;
+      max-width: 44em; /* 45 / 1.25 */
+      margin-bottom:2.25em
+    }
+  </style>
+
 </head>
