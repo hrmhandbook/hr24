@@ -19,8 +19,6 @@ Každý rok nás o něco připraví. A taky samozřejmě předloni bylo lépe ne
 
 Naopak, opět se ukazuje, že ti, co umí riskovat a vycítit obecnou náladu ve společnosti, mají velkou obchodní výhodu. Dokážou odhadnout směr vývoje a pokud riskují, mají velkou šanci na úspěch. A nebo taky na kolosální ztrátu.
 
-{{< figure src="/images/plane.jpg" title="Prostě jenom takové letadlo" >}}
-
 Štěstí teď stojí na straně všech, co prodávají online. Záleží jenom, zda se jim podaří tuhle "nefér" obchodní výhodu přetavit v dlouhodobě udržitelnou konkurenční výhodu. To už je potom jiný příběh a budeme si muset počkat rok a nebo spíš dva, až se vody zase uklidní.
 
 Teď mají samozřejmě ramena, jak byli připravení a jak to zvládli. No, úplně připravení nebyli, a kdyby se najednou nenašlo dost lidí bez práce, tak by to ani nezvládli. Občas je to štěstí opravdu jenom muška zlatá. Teď se na vlně veze kdejaký [rohlík.](https://www.rohlik.cz)
@@ -47,6 +45,6 @@ Po několika letech se vrátilo riziko. Žili jsme ve šťastné době, kdy neus
 
 Dala nám dovednost, jak pracovat online. Hodně se o tom mluvilo, ale být donucen, to už je jiná. I největší konzervy se naučily zapnout kameru a pohádat se po Internetu. Není to taková zábava jako v kanceláři, ale aspoň něco. Ten tlak, abychom pracovali více vzdáleně, už tu s námi zůstane. Už se těším na první Pilsner Urquell uvařený tak porůznu doma u našich sládků.
 
-A to je ono - korona nám dala velkou nespravedlnost. Ta nejhorší věc, co se nám mohla stát. Nejenom, že máme velké rozdíly v možnostech studia, ale také máme společnost rozdělenou na část bez práce, protože to vzdáleně dělat nejde, část, co tam musí a část, co pohodlně pracuje z domu.
+A to je ono - **korona nám dala velkou nespravedlnost**. Ta nejhorší věc, co se nám mohla stát. Nejenom, že máme velké rozdíly v možnostech studia, ale také máme společnost rozdělenou na část bez práce, protože to vzdáleně dělat nejde, část, co tam musí a část, co pohodlně pracuje z domu.
 
 A s tím budeme muset bojovat, pokud chceme jako společnost přežít. A nepostavit se proti sobě.
