@@ -4,6 +4,18 @@ date: 2020-11-26T16:04:51-04:00
 draft: false
 url: "/korona-dala-vzala"
 tags: [ "korona", "budoucnost","HR trendy" ]
+author: "Lukáš"
+showToc: false
+TocOpen: false
+draft: false
+hidemeta: false
+disableShare: false
+cover:
+  image: "/images/virus.jpg"
+  alt: "Koronavirus nám dal pořádně zabrat."
+  caption: "Koronavirus nám dal pořádně zabrat."
+  relative: false
+comments: false
 ---
 
 Rok 2020 je zatím rozhodně tak trochu jiný, než jsme si na začátku představovali. Dobře si pamatuju, jak jsem v lednu na setkání ve Varšavě vtipkoval, že tenhle virus by nám mohl změnit perspektivu. A jak jsem na konci února na letišti v Budapešti nadával, že mne tohle neustálé létání začíná dost otravovat. To jsem netušil, že je to můj poslední let v roce 2020.
