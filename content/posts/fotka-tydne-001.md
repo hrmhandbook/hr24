@@ -7,7 +7,7 @@ author: "Lukáš"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 disableShare: false
 cover:
