@@ -25,9 +25,9 @@ Když chci jednoduchý web, tak obvykle je to Wordpress.  Je to super jednoduch�
 Nejenom, že rychlý wordpress vyžaduje specificky nastavený hosting, za který se připlácí. I za dobře naprogramovaný plugin nebo šablonu se platí. Bohužel, většinou se platí formou předplatného na rok, což je asi nejoblíbenější forma, jak z klienta vytřískat nějaký výnos navíc.
 
 [Hugo](https://gohugo.io) na to jde trochu jinak. Není to systém, co běží na webu, ale pěkně lokálně vyprodukuje čisté HTML stránky, které se nahrají na web. Je to prostě web, jako ho vymysleli v CERNu a je to dodnes nejrychlejší technologie. Server jenom vezme soubor a pošle ho klientovi. Žádné databáze, žádné PHP skriptování. Jen čisté HTML stránky.
-​
+
 Ďábelsky rychlé a funguje to všude. I na vašem iPhonu.
-​
+
 **Důležité upozornění**
 ​
 Hugo určitě není pro každého a Wordpress je výborný systém pro publikování. Je to stejné jako všude jinde, žádné štěstí nechodí osamoceno, vždy ho doprovází i nějaká bolest.
