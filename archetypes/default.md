@@ -11,9 +11,9 @@ draft: true
 hidemeta: false
 disableShare: false
 cover:
-	image: "<image path/url>"
-	alt: "<alt text>"
-	caption: "<text>"
-	relative: false
+    image: "<image path/url>"
+    alt: "<alt text>"
+    caption: "<text>"
+    relative: false
 comments: false
 ---
