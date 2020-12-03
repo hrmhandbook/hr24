@@ -11,7 +11,7 @@ draft: false
 hidemeta: false
 disableShare: false
 cover:
-    image: "/images/fotka-tydne.jpg"
+    image: "/images/fotka-tydne.webp"
     alt: "Fotka týdne"
     caption: "Fotka týdne"
     relative: false
@@ -24,7 +24,7 @@ Jednou za týden se pokusím jednu fotku vybrat a dát ji sem, abych si taky př
 
 Na tuhle první konkrétně úplně ne, protože jsem ji pořídil na **hřbitově v České Třebové**. Ale líbí se mi, je taková správně smutná.
 
-{{< figure src="/images/modlim-se.jpg" title="Čas pomodlit se." >}}
+{{< figure src="/images/modlim-se.webp" title="Čas pomodlit se." >}}
 
 
 

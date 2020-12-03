@@ -11,7 +11,7 @@ draft: false
 hidemeta: false
 disableShare: false
 cover:
-  image: "/images/virus.jpg"
+  image: "/images/virus.webp"
   alt: "Koronavirus nám dal pořádně zabrat."
   caption: "Koronavirus nám dal pořádně zabrat."
   relative: false

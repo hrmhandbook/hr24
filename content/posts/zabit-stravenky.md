@@ -10,7 +10,7 @@ draft: false
 hidemeta: false
 disableShare: false
 cover:
-  image: "/images/kocicka.jpg"
+  image: "/images/kocicka.webp"
   alt: "Stravenky se ruší. Konečně."
   caption: "Stravenky se ruší. Konečně."
   relative: false

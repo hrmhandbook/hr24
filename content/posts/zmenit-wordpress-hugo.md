@@ -11,7 +11,7 @@ draft: false
 hidemeta: false
 disableShare: false
 cover:
-    image: "/images/wordpress-hugo.jpg"
+    image: "/images/wordpress-hugo.webp"
     alt: "Přechod od Wordpressu k HUGO"
     caption: "Přechod od Wordpressu k Hugo"
     relative: false
@@ -29,11 +29,11 @@ Nejenom, že rychlý wordpress vyžaduje specificky nastavený hosting, za kter�
 Ďábelsky rychlé a funguje to všude. I na vašem iPhonu.
 
 **Důležité upozornění**
-​
+
 Hugo určitě není pro každého a Wordpress je výborný systém pro publikování. Je to stejné jako všude jinde, žádné štěstí nechodí osamoceno, vždy ho doprovází i nějaká bolest.
 
 Hugo poskytuje hodně svobody, samozřejmě za cenu velkých porodních bolestí. Naopak, Wordpress jede hned, ale měnit směr později dost bolí. To se pak umí postavit do cesty a mít svou hlavu.
-​
+
 **Konec důležitého upozornění**
 ​
 ## Proč jsem opustil Wordpress
