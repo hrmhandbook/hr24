@@ -1,73 +1,56 @@
-baseURL: "https://hr24.cz"
+---
+baseURL: https://hr24.cz
 title: HR24
 paginate: 8
 theme: hugo-PaperMod
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-
 googleAnalytics: UA-123-45
-
 minify:
-    disableXML: true
-    minifyOutput: true
-
+  disableXML: true
+  minifyOutput: true
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production
+  title: HR24
+  description: Vše o řízení lidských zdrojů
+  author: Lukas
+  images: "<link or path of image for opengraph, twitter-cards>"
+  ShowReadingTime: true
+  ShowShareButtons: true
+  comments: false
+  defaultTheme: light
+  disableThemeToggle: true
+  disableSpecial1stPost: false
+  assets:
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+  label:
+    text: HR24
+    iconHeight: 35
+  profileMode:
+    enabled: false
     title: HR24
-    description: "Vše o řízení lidských zdrojů"
-    author: Lukas
-    # author: ["Me", "You"] # multiple authors
-
-    images: "<link or path of image for opengraph, twitter-cards>"
-
-    ShowReadingTime: true
-    ShowShareButtons: true
-    comments: false
-    defaultTheme: light
-    disableThemeToggle: true
-    disableSpecial1stPost: false
-
-    assets:
-        favicon: "<link / abs url>"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
-        apple_touch_icon: "<link / abs url>"
-        safari_pinned_tab: "<link / abs url>"
-
-    label:
-        text: "HR24"
-        iconHeight: 35
-
-    # profile-mode
-    profileMode:
-        enabled: false # needs to be explicitly set
-        title: HR24
-        # imageUrl: '<img location>'
-        # imageTitle: my image
-        buttons:
-          - name: Archives
-            url: archives
-          - name: Tags
-            url: tags
-
-    # home-info mode
-    homeInfoParams:
-        Title: "HR24.cz"
-        Content: Žádný učený HR manažer z nebe nespadl.
-
-    socialIcons:
-        - name: twitter
-          url: "https://twitter.com/HRProCEE1"
-        - name: linkedin
-          url: "https://www.linkedin.com/in/polclukas/"
-
-    taxonomies:
-      category: categories
-      tag: tags
-      
-    analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
+    buttons:
+    - name: Archives
+      url: archives
+    - name: Tags
+      url: tags
+  homeInfoParams:
+    Title: HR24.cz
+    Content: Žádný učený HR manažer z nebe nespadl.
+  socialIcons:
+  - name: twitter
+    url: https://twitter.com/HRProCEE1
+  - name: linkedin
+    url: https://www.linkedin.com/in/polclukas/
+  taxonomies:
+    category: categories
+    tag: tags
+  analytics:
+    google:
+      SiteVerificationTag: XYZabc
